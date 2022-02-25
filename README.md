@@ -1,14 +1,14 @@
-#Click&Fly
+<h1>Click&Fly</h1>
 
 
 </hr>
 
 <div align="center">
- <h1>
+ <h2>
  Bienvenue ! Je suis Déo Ganro
  </br>
  <img src="https://i0.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="600px"/>
-</h1>
+</h2>
 
 <p>
  <a href=>Liens vers le site</a>
